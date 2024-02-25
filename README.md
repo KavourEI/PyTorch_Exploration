@@ -43,3 +43,4 @@ The repository is organized into several files, each focusing on a specific aspe
 * 00_pytorch_fundamentals.ipynb : I go through fundamental aspects of using PyTorch
 * 01_pytorch_workflow.ipynb : The several key steps of the workflow while using PyTorch
 * 02_pytorch_classification.ipynb : Exploring classificaiton problem using PyTorch. Binary and Multiclass Classification
+* 04_pytorch_custom_datasets.ipynb : Creating, exploring and using a custom dataset.
